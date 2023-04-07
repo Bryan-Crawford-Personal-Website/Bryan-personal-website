@@ -12,6 +12,8 @@ header {
     padding: 0.5em;
 }
 
-.name {
-    
+.quote {
+    font-family: cursive;
+    text-align: center;
+    margin-top: 4em;
 }
