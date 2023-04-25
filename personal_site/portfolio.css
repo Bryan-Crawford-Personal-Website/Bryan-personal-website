@@ -12,12 +12,6 @@ header {
   padding: 0.5em;
 }
 
-.quote {
-  font-family: cursive;
-  text-align: center;
-  margin-top: 4em;
-}
-
 body {
   background-image: url("./assets/background\ portfolio.jpg");
   background-repeat: no-repeat;
