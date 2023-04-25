@@ -1,19 +1,25 @@
 .links {
-    float:right;
+  float: right;
 }
 
 .links a {
-    text-decoration: none;
-    color: red;
+  text-decoration: none;
+  color: red;
 }
 
 header {
-    font-size: 2rem;
-    padding: 0.5em;
+  font-size: 2rem;
+  padding: 0.5em;
 }
 
 .quote {
-    font-family: cursive;
-    text-align: center;
-    margin-top: 4em;
+  font-family: cursive;
+  text-align: center;
+  margin-top: 4em;
+}
+
+body {
+  background-image: url("./assets/background\ portfolio.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
